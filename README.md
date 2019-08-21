@@ -1,5 +1,4 @@
 # AttitudeEstimation
-Attitude Estimation
 
 Algorithm based on the paper:
 "A New Quaternion-Based Kalman Filter for Real-Time Attitude Estimation Using the Two-Step Geometrically-Intuitive Correction Algorithm"
